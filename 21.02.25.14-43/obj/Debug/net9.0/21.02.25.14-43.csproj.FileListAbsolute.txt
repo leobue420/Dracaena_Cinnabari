@@ -1,0 +1,14 @@
+/Users/leoni/Documents/projects/c# projects/21.02.25.14-43/bin/Debug/net9.0/21.02.25.14-43
+/Users/leoni/Documents/projects/c# projects/21.02.25.14-43/bin/Debug/net9.0/21.02.25.14-43.deps.json
+/Users/leoni/Documents/projects/c# projects/21.02.25.14-43/bin/Debug/net9.0/21.02.25.14-43.runtimeconfig.json
+/Users/leoni/Documents/projects/c# projects/21.02.25.14-43/bin/Debug/net9.0/21.02.25.14-43.dll
+/Users/leoni/Documents/projects/c# projects/21.02.25.14-43/bin/Debug/net9.0/21.02.25.14-43.pdb
+/Users/leoni/Documents/projects/c# projects/21.02.25.14-43/obj/Debug/net9.0/21.02.25.14-43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leoni/Documents/projects/c# projects/21.02.25.14-43/obj/Debug/net9.0/21.02.25.14-43.AssemblyInfoInputs.cache
+/Users/leoni/Documents/projects/c# projects/21.02.25.14-43/obj/Debug/net9.0/21.02.25.14-43.AssemblyInfo.cs
+/Users/leoni/Documents/projects/c# projects/21.02.25.14-43/obj/Debug/net9.0/21.02.25.14-43.csproj.CoreCompileInputs.cache
+/Users/leoni/Documents/projects/c# projects/21.02.25.14-43/obj/Debug/net9.0/21.02.25.14-43.dll
+/Users/leoni/Documents/projects/c# projects/21.02.25.14-43/obj/Debug/net9.0/refint/21.02.25.14-43.dll
+/Users/leoni/Documents/projects/c# projects/21.02.25.14-43/obj/Debug/net9.0/21.02.25.14-43.pdb
+/Users/leoni/Documents/projects/c# projects/21.02.25.14-43/obj/Debug/net9.0/21.02.25.14-43.genruntimeconfig.cache
+/Users/leoni/Documents/projects/c# projects/21.02.25.14-43/obj/Debug/net9.0/ref/21.02.25.14-43.dll

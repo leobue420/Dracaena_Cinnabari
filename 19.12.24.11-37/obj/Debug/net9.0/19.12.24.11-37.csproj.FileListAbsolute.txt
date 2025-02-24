@@ -1,0 +1,4 @@
+/Users/leoni/Documents/projects/c# projects/19.12.24.11-37/obj/Debug/net9.0/19.12.24.11-37.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leoni/Documents/projects/c# projects/19.12.24.11-37/obj/Debug/net9.0/19.12.24.11-37.AssemblyInfoInputs.cache
+/Users/leoni/Documents/projects/c# projects/19.12.24.11-37/obj/Debug/net9.0/19.12.24.11-37.AssemblyInfo.cs
+/Users/leoni/Documents/projects/c# projects/19.12.24.11-37/obj/Debug/net9.0/19.12.24.11-37.csproj.CoreCompileInputs.cache
