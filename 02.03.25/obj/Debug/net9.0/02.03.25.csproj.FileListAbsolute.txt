@@ -1,0 +1,15 @@
+/Users/leoni/Documents/projects/c# projects/02.03.25/bin/Debug/net9.0/02.03.25
+/Users/leoni/Documents/projects/c# projects/02.03.25/bin/Debug/net9.0/02.03.25.deps.json
+/Users/leoni/Documents/projects/c# projects/02.03.25/bin/Debug/net9.0/02.03.25.runtimeconfig.json
+/Users/leoni/Documents/projects/c# projects/02.03.25/bin/Debug/net9.0/02.03.25.dll
+/Users/leoni/Documents/projects/c# projects/02.03.25/bin/Debug/net9.0/02.03.25.pdb
+/Users/leoni/Documents/projects/c# projects/02.03.25/obj/Debug/net9.0/02.03.25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leoni/Documents/projects/c# projects/02.03.25/obj/Debug/net9.0/02.03.25.AssemblyInfoInputs.cache
+/Users/leoni/Documents/projects/c# projects/02.03.25/obj/Debug/net9.0/02.03.25.AssemblyInfo.cs
+/Users/leoni/Documents/projects/c# projects/02.03.25/obj/Debug/net9.0/02.03.25.csproj.CoreCompileInputs.cache
+/Users/leoni/Documents/projects/c# projects/02.03.25/obj/Debug/net9.0/02.03.25.sourcelink.json
+/Users/leoni/Documents/projects/c# projects/02.03.25/obj/Debug/net9.0/02.03.25.dll
+/Users/leoni/Documents/projects/c# projects/02.03.25/obj/Debug/net9.0/refint/02.03.25.dll
+/Users/leoni/Documents/projects/c# projects/02.03.25/obj/Debug/net9.0/02.03.25.pdb
+/Users/leoni/Documents/projects/c# projects/02.03.25/obj/Debug/net9.0/02.03.25.genruntimeconfig.cache
+/Users/leoni/Documents/projects/c# projects/02.03.25/obj/Debug/net9.0/ref/02.03.25.dll
